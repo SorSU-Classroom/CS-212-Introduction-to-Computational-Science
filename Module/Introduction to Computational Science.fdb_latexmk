@@ -1,11 +1,11 @@
 # Fdb version 4
-["pdflatex"] 1756228702.42777 "c:/Users/user/OneDrive/Documents/SorSU/__Repository__/CS-212-Introduction-to-Computation-Science/Module/Introduction to Computational Science.tex" "Introduction to Computational Science.pdf" "Introduction to Computational Science" 1756228706.145 0
-  "Introduction to Computational Science.aux" 1756228705 8240 460673ee5f61291c1c1f9c7fc5dcb8c5 "pdflatex"
-  "Introduction to Computational Science.lof" 1756228705 552 058803a2643dc70f4e67a661bb840fd7 "pdflatex"
-  "Introduction to Computational Science.lot" 1756228705 70 d043e2cefe227276a1e443919a6072d0 "pdflatex"
-  "Introduction to Computational Science.out" 1756228705 11399 4f2c4f3fd894d6e358db603324e61962 "pdflatex"
+["pdflatex"] 1756228867.90712 "c:/Users/user/OneDrive/Documents/SorSU/__Repository__/CS-212-Introduction-to-Computation-Science/Module/Introduction to Computational Science.tex" "Introduction to Computational Science.pdf" "Introduction to Computational Science" 1756228871.62539 0
+  "Introduction to Computational Science.aux" 1756228871 8240 460673ee5f61291c1c1f9c7fc5dcb8c5 "pdflatex"
+  "Introduction to Computational Science.lof" 1756228871 552 058803a2643dc70f4e67a661bb840fd7 "pdflatex"
+  "Introduction to Computational Science.lot" 1756228871 70 d043e2cefe227276a1e443919a6072d0 "pdflatex"
+  "Introduction to Computational Science.out" 1756228871 11399 4f2c4f3fd894d6e358db603324e61962 "pdflatex"
   "Introduction to Computational Science.tex" 1756224535 8338 c22803edd1709b30e8e58222a48a00ff ""
-  "Introduction to Computational Science.toc" 1756228705 4858 3e998905cccfc31b8d0035e1d3f81847 "pdflatex"
+  "Introduction to Computational Science.toc" 1756228871 4858 3e998905cccfc31b8d0035e1d3f81847 "pdflatex"
   "c:/Users/user/OneDrive/Documents/SorSU/__Repository__/CS-212-Introduction-to-Computation-Science/Module/Introduction to Computational Science.tex" 1756224535 8338 c22803edd1709b30e8e58222a48a00ff ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc" 1746541428 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1746542485 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -294,7 +294,7 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1746551267 5569470 f263a82cf6bb394f5bc87b63f38b78df ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1746551485 3567526 16c83f200b2e4f27fc6b29d4fe603353 ""
   "c:/texlive/2025/texmf.cnf" 1746551241 713 e69b156964470283e0530f5060668171 ""
-  "chapters/C1 - Introduction to Computational Science.tex" 1756228697 48278 a962c4f650f79b1b16946154b181275f ""
+  "chapters/C1 - Introduction to Computational Science.tex" 1756228866 48280 4c3e35dbd0189a2965a68ff8a6bcdaef ""
   "images/chapter1_title_simulation.png" 1756223507 142263 03bacd1272bb3b9532f6126b3b5c3541 ""
   "images/computational_science_venn.png" 1756227761 154937 6a6a2996777dacf6fff1d24f409ba830 ""
   "images/science_four_pillars.png" 1756225092 320989 6df935f7885c160ed5a53a37227687da ""
