@@ -802,4 +802,53 @@ Medical applications of computational science range from tracking disease outbre
 
 The diversity of these applications demonstrates that computational science is not confined to traditional "hard" sciences but extends to any field where complex systems can be modeled mathematically and solved computationally. Each application requires the same tripartite integration of domain expertise, computational methods, and mathematical modeling that defines computational science as a discipline.
 
+\subsection{Fundamental Algorithms in Computational Science}
+
+\begin{figure}[h]
+ \centering
+ \includegraphics[width=0.6\textwidth]{images/least_squares_regression.png}
+ \caption{Linear Least Squares Regression Example}
+ \label{fig:least_squares_regression}
+\end{figure}
+
+At the heart of computational science lies the development and application of algorithms—systematic procedures for solving mathematical problems computationally. These algorithms serve as the bridge between theoretical mathematical models and practical computational solutions. Figure~\ref{fig:least_squares_regression} illustrates one fundamental example: the least squares regression method for fitting data to mathematical functions.
+
+\subsubsection{The Algorithm Development Process}
+
+Creating effective computational algorithms involves two critical steps that transform real-world problems into computable solutions:
+
+\textbf{Mathematical Representation of the Problem}
+
+The first step requires translating a physical phenomenon or scientific question into a mathematical framework—what we call the "mathematical model." This process involves identifying the key variables, relationships, and constraints that govern the system under study. For instance, when studying population growth, we might represent the problem using differential equations that describe how birth rates, death rates, and environmental factors influence population changes over time.
+
+\textbf{Choosing the Appropriate Numerical Recipe}
+
+Once we have a mathematical model, we must select or develop a numerical method—a "recipe"—that can solve the problem computationally. This choice depends on the nature of the mathematical problem, the required accuracy, available computational resources, and the specific characteristics of the data or system being studied.
+
+\subsubsection{Essential Numerical Methods}
+
+Computational science relies on several fundamental algorithmic approaches, each designed for specific types of mathematical problems:
+
+\textbf{Linear Least Squares Method}
+
+This algorithm finds the best-fitting line (or curve) through a set of data points by minimizing the sum of squared errors between the observed data and the predicted values. As shown in Figure~\ref{fig:least_squares_regression}, the method determines the line $\hat{y} = \frac{1}{2}x - 1$ that best represents the relationship between variables while accounting for measurement errors. This technique is fundamental in data analysis, experimental science, and machine learning applications.
+
+\textbf{Newton's Method}
+
+Newton's method provides an iterative approach for finding the roots of equations—points where a function equals zero. This algorithm is particularly powerful because it converges rapidly to solutions when given a good initial guess. Scientists use Newton's method to solve nonlinear equations that arise in optimization problems, equilibrium calculations, and systems where multiple variables must satisfy complex relationships simultaneously.
+
+\textbf{Euler's Method}
+
+Euler's method offers a straightforward approach for solving differential equations numerically. While simple in concept, this method forms the foundation for understanding more sophisticated integration techniques. It works by taking small steps forward in time, using the current slope to estimate the next value. This approach is essential for modeling dynamic systems like weather patterns, chemical reactions, or population dynamics where rates of change are known but exact solutions are impossible to obtain analytically.
+
+\textbf{Cramer's Rule}
+
+Cramer's rule provides a systematic method for solving systems of linear equations using determinants. While computationally intensive for large systems, this method offers theoretical insights into when systems have unique solutions and how solutions depend on the input parameters. Understanding Cramer's rule helps computational scientists recognize when linear systems are well-posed and guides the selection of more efficient solution methods for large-scale problems.
+
+\subsubsection{Algorithm Selection and Performance}
+
+The effectiveness of computational science depends critically on choosing appropriate algorithms for specific problems. Factors influencing algorithm selection include computational complexity, numerical stability, accuracy requirements, and the specific structure of the mathematical problem. A skilled computational scientist must understand not only how these algorithms work but also when and why to apply each method.
+
+These fundamental algorithms represent building blocks that can be combined and extended to tackle increasingly complex computational challenges across all scientific disciplines. Their mastery is essential for anyone seeking to apply computational methods effectively in scientific research.
+
 

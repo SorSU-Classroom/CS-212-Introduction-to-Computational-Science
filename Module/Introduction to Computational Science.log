@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.7)  27 AUG 2025 01:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.7)  27 AUG 2025 01:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1233,7 +1233,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
  1.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 12.9599pt on input line 3.
-<images/chapter1_title_simulation.png, id=313, 557.08125pt x 502.12593pt>
+<images/chapter1_title_simulation.png, id=336, 557.08125pt x 502.12593pt>
 File: images/chapter1_title_simulation.png Graphic file (type png)
 <use images/chapter1_title_simulation.png>
 Package pdftex.def Info: images/chapter1_title_simulation.png  used on input line 20.
@@ -1267,7 +1267,7 @@ Overfull \hbox (1.68533pt too wide) in paragraph at lines 313--314
 []\T1/ppl/m/n/10.95 (-20) The 20th and 21st cen-turies have wit-nessed the emer-gence of a third ap-proach^^Vcomputational
  []
 
-<images/science_four_pillars.png, id=375, 720.44156pt x 429.10312pt>
+<images/science_four_pillars.png, id=397, 720.44156pt x 429.10312pt>
 File: images/science_four_pillars.png Graphic file (type png)
 <use images/science_four_pillars.png>
 Package pdftex.def Info: images/science_four_pillars.png  used on input line 317.
@@ -1289,7 +1289,7 @@ Overfull \hbox (10.4726pt too wide) in paragraph at lines 412--413
 
 
 [11]
-<images/tripartite_triangle.png, id=408, 511.9125pt x 414.04688pt>
+<images/tripartite_triangle.png, id=431, 511.9125pt x 414.04688pt>
 File: images/tripartite_triangle.png Graphic file (type png)
 <use images/tripartite_triangle.png>
 Package pdftex.def Info: images/tripartite_triangle.png  used on input line 465.
@@ -1315,7 +1315,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on in
 [17]
 
 [18{c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
-<images/computational_science_venn.png, id=442, 904.88063pt x 353.82187pt>
+<images/computational_science_venn.png, id=464, 904.88063pt x 353.82187pt>
 File: images/computational_science_venn.png Graphic file (type png)
 <use images/computational_science_venn.png>
 Package pdftex.def Info: images/computational_science_venn.png  used on input line 747.
@@ -1323,20 +1323,39 @@ Package pdftex.def Info: images/computational_science_venn.png  used on input li
 
 
 [19 <./images/computational_science_venn.png>]
-<images/molecular_structure.png, id=450, 309.40594pt x 374.14781pt>
+<images/molecular_structure.png, id=472, 309.40594pt x 374.14781pt>
 File: images/molecular_structure.png Graphic file (type png)
 <use images/molecular_structure.png>
 Package pdftex.def Info: images/molecular_structure.png  used on input line 772.
 (pdftex.def)             Requested size: 271.7835pt x 328.68018pt.
 
 
-[20 <./images/molecular_structure.png>])
+[20 <./images/molecular_structure.png>]
+<images/least_squares_regression.png, id=479, 428.35031pt x 338.01282pt>
+File: images/least_squares_regression.png Graphic file (type png)
+<use images/least_squares_regression.png>
+Package pdftex.def Info: images/least_squares_regression.png  used on input line 809.
+(pdftex.def)             Requested size: 271.7835pt x 214.46555pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (34.04976pt too wide) in paragraph at lines 814--815
+[]\T1/ppl/m/n/10.95 (-20) At the heart of com-pu-ta-tional sci-ence lies the de-vel-op-ment and ap-pli-ca-tion of al-go-rithms^^Vsystematic
+ []
+
+
 
 [21]
+
+[22 <./images/least_squares_regression.png>])
+
+[23]
  2.
 
 
-[22
+[24
 
 ] (./Introduction to Computational Science.aux)
  ***********
@@ -1344,21 +1363,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `"Introduction to Computational Science".out' has not changed.
-(rerunfilecheck)             Checksum: AB4F4E5026740DD28D0A52FF89748D0B;13577.
+(rerunfilecheck)             Checksum: 0396F42C8CF3C63C1D32401B9DB76D1B;14608.
  ) 
 Here is how much of TeX's memory you used:
- 57078 strings out of 469608
- 1299048 string characters out of 5474780
+ 57098 strings out of 469608
+ 1299585 string characters out of 5474780
  2119686 words of memory out of 5000000
- 82633 multiletter control sequences out of 15000+600000
- 714415 words of font info for 416 fonts, out of 8000000 for 9000
+ 82645 multiletter control sequences out of 15000+600000
+ 714493 words of font info for 417 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  132i,11n,135p,1332b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "Introduction to Computational Science.pdf" (28 pages, 1398068 bytes).
+Output written on "Introduction to Computational Science.pdf" (30 pages, 1447624 bytes).
 PDF statistics:
- 545 PDF objects out of 1000 (max. 8388607)
- 479 compressed objects within 5 object streams
- 126 named destinations out of 1000 (max. 500000)
- 117694 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 582 PDF objects out of 1000 (max. 8388607)
+ 511 compressed objects within 6 object streams
+ 133 named destinations out of 1000 (max. 500000)
+ 117731 words of extra memory for PDF output out of 128383 (max. 10000000)
 
