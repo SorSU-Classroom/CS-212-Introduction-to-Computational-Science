@@ -15,6 +15,7 @@
 \usepackage{tikz}
 \usepackage{fontawesome5}
 \usepackage{xcolor}
+\usepackage{xr} % For external references - allows referencing figures/tables from other documents
 \usepackage{hyperref} % For clickable links
 
 % Configure hyperref for better link appearance
@@ -188,8 +189,8 @@
 % Variable Declarations                        %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newcommand\CourseTitle{Discrete Structures 2}
-\newcommand\CourseCode{CS 202}
+\newcommand\CourseTitle{Introduction to Computational Science}
+\newcommand\CourseCode{CS 212}
 
 \newcommand\ProgramName{Bachelor of Science in Computer Science}
 
@@ -202,12 +203,12 @@
 %  - Book author name                             %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\newcommand{\BookTitle}{LaTeX Template}
+\newcommand{\BookTitle}{Introduction to Computational Science}
 \newcommand{\BookTitleFootnote}{A course in the \ProgramName}
 
-\newcommand{\BookSubtitle}{A Study Guide for Students of \UniversityName - \CampusName}
+\newcommand{\BookSubtitle}{A Study Guide for Students of {\UniversityName} - {\CampusName}}
 \newcommand{\BookSubtitleFootnote}{This book is a study guide for students of
-\UniversityName - \CampusName taking up the course \CourseTitle.}
+{\UniversityName} - {\CampusName} taking up the course {\CourseTitle}.}
 
 \newcommand{\BookAuthorFirstName}{Jarrian Vince}
 \newcommand{\BookAuthorLastName}{Gojar}
@@ -247,9 +248,9 @@
 % Preface %
 %%%%%%%%%%%
 \chapter*{Preface}
-\begin{chapquote}{John von Neumann}
-  ``If people do not believe that mathematics is simple, it is only
-  because they do not realize how complicated life is.''
+\begin{chapquote}{Stephen Wolfram}
+``A new kind of science is emerging that is
+fundamentally changing our view of the world.''
 \end{chapquote}
 
 \noindent \BookAuthorName \\
@@ -258,57 +259,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%
 %%%     Chapter     %%%
 %%%%%%%%%%%%%%%%%%%%%%%
-\chapter{Boolean Algebra}
 
-\chapter{Trees}
-
-\section{Introduction to Trees}
-
-\section{Terms and Definitions}
-
-\section{Binary Trees}
-
-\section{Tree Traversals}
-
-\section{Spanning Trees}
-
-\section{Decision Trees}
-
-\section{Isomorphism of Trees}
-
-\chapter{Network Models and Petri Nets}
-
-\section{Network Models}
-
-\section{Maximal Flow Algorithm}
-
-\section{Max Flow, Min Cut Theorem}
-
-\section{Matching}
-
-\section{Petri Nets}
-
-\chapter{Automata, Grammars and Languages}
-
-\section{Languages and Grammars}
-
-\section{Finite State Automata}
-
-\section{Regular Expressions}
-
-\chapter{Computational Geometry}
-
-\section{Basics of Computational Geometry}
-
-\section{Closest-Pair Problem}
-
-\section{Convex Hull Algorithm}
-
-\section{Voronoi Diagrams}
-
-\section{Line Segment Intersection}
-
-\section{Applications in Computer Graphics and Geographical Information Systems}
+\input{chapters/C1 - Introduction to Computational Science.tex}
 
 \chapter{References}
 
