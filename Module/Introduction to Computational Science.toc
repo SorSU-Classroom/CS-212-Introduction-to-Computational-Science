@@ -9,22 +9,21 @@
 \contentsline {subsubsection}{\numberline {1.2.1.1}Fundamental Components of Mass-Spring Systems}{3}{subsubsection.1.2.1.1}%
 \contentsline {subsubsection}{\numberline {1.2.1.2}Physical Principles Governing Mass-Spring Dynamics}{4}{subsubsection.1.2.1.2}%
 \contentsline {subsubsection}{\numberline {1.2.1.3}Applications of Mass-Spring Dynamics}{4}{subsubsection.1.2.1.3}%
-\contentsline {subsubsection}{\numberline {1.2.1.4}Computational Challenges in Mass-Spring Dynamics}{5}{subsubsection.1.2.1.4}%
-\contentsline {subsubsection}{\numberline {1.2.1.5}Why Mass-Spring Dynamics is Important for Computational Science}{6}{subsubsection.1.2.1.5}%
-\contentsline {subsection}{\numberline {1.2.2}Understanding Mass-Spring Dynamics: A Computational Science Example}{6}{subsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.1.4}Why Mass-Spring Dynamics is Important for Computational Science}{5}{subsubsection.1.2.1.4}%
+\contentsline {subsection}{\numberline {1.2.2}Understanding Mass-Spring Dynamics: A Computational Science Example}{5}{subsection.1.2.2}%
 \contentsline {subsubsection}{\numberline {1.2.2.1}The Physical System}{6}{subsubsection.1.2.2.1}%
 \contentsline {subsubsection}{\numberline {1.2.2.2}Mathematical Modeling Components}{6}{subsubsection.1.2.2.2}%
-\contentsline {subsubsection}{\numberline {1.2.2.3}Computational Implementation}{7}{subsubsection.1.2.2.3}%
-\contentsline {subsubsection}{\numberline {1.2.2.4}Interdisciplinary Nature Demonstrated}{7}{subsubsection.1.2.2.4}%
+\contentsline {subsubsection}{\numberline {1.2.2.3}Computational Implementation}{6}{subsubsection.1.2.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.2.4}Interdisciplinary Nature Demonstrated}{6}{subsubsection.1.2.2.4}%
 \contentsline {subsubsection}{\numberline {1.2.2.5}Educational and Research Applications}{7}{subsubsection.1.2.2.5}%
-\contentsline {subsubsection}{\numberline {1.2.2.6}Computational Challenges and Considerations}{8}{subsubsection.1.2.2.6}%
-\contentsline {section}{\numberline {1.3}What is Computational Science?}{8}{section.1.3}%
+\contentsline {subsubsection}{\numberline {1.2.2.6}Computational Challenges and Considerations}{7}{subsubsection.1.2.2.6}%
+\contentsline {section}{\numberline {1.3}What is Computational Science?}{7}{section.1.3}%
 \contentsline {subsection}{\numberline {1.3.1}The Evolution of Scientific Methodology}{8}{subsection.1.3.1}%
-\contentsline {subsection}{\numberline {1.3.2}The Four Pillars of Scientific Discovery}{9}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.2}The Four Pillars of Scientific Discovery}{8}{subsection.1.3.2}%
 \contentsline {subsubsection}{\numberline {1.3.2.1}Observational Science: "Wings or Propeller?"}{9}{subsubsection.1.3.2.1}%
-\contentsline {subsubsection}{\numberline {1.3.2.2}Experimental Science: "Slow it Down!"}{10}{subsubsection.1.3.2.2}%
+\contentsline {subsubsection}{\numberline {1.3.2.2}Experimental Science: "Slow it Down!"}{9}{subsubsection.1.3.2.2}%
 \contentsline {subsubsection}{\numberline {1.3.2.3}Theoretical Science: "Knot Theory"}{10}{subsubsection.1.3.2.3}%
-\contentsline {subsubsection}{\numberline {1.3.2.4}Computational Science: "Construct a Simulation"}{11}{subsubsection.1.3.2.4}%
+\contentsline {subsubsection}{\numberline {1.3.2.4}Computational Science: "Construct a Simulation"}{10}{subsubsection.1.3.2.4}%
 \contentsline {subsection}{\numberline {1.3.3}The Synergistic Diamond: Integrating Four Approaches}{11}{subsection.1.3.3}%
 \contentsline {subsection}{\numberline {1.3.4}The Tripartite Nature of Computational Science}{12}{subsection.1.3.4}%
 \contentsline {subsection}{\numberline {1.3.5}Understanding the Tripartite Triangle}{12}{subsection.1.3.5}%
@@ -59,76 +58,67 @@
 \contentsline {subsubsection}{\numberline {1.4.1.2}Scientific Workstation}{24}{subsubsection.1.4.1.2}%
 \contentsline {subsubsection}{\numberline {1.4.1.3}Supercomputer}{25}{subsubsection.1.4.1.3}%
 \contentsline {subsubsection}{\numberline {1.4.1.4}High Performance Computing (HPC)}{26}{subsubsection.1.4.1.4}%
-\contentsline {subsection}{\numberline {1.4.2}Platform Selection Criteria}{26}{subsection.1.4.2}%
-\contentsline {subsubsection}{\numberline {1.4.2.1}Problem Size and Complexity}{26}{subsubsection.1.4.2.1}%
-\contentsline {subsubsection}{\numberline {1.4.2.2}Time Requirements}{27}{subsubsection.1.4.2.2}%
-\contentsline {subsubsection}{\numberline {1.4.2.3}Budget and Resource Constraints}{27}{subsubsection.1.4.2.3}%
-\contentsline {subsubsection}{\numberline {1.4.2.4}Expertise and Support Requirements}{27}{subsubsection.1.4.2.4}%
-\contentsline {subsection}{\numberline {1.4.3}Hybrid and Cloud Computing Approaches}{27}{subsection.1.4.3}%
-\contentsline {subsubsection}{\numberline {1.4.3.1}Cloud Computing Integration}{27}{subsubsection.1.4.3.1}%
-\contentsline {subsubsection}{\numberline {1.4.3.2}Workflow Optimization}{28}{subsubsection.1.4.3.2}%
-\contentsline {subsection}{\numberline {1.4.4}Future Trends in Computational Architecture}{28}{subsection.1.4.4}%
-\contentsline {subsubsection}{\numberline {1.4.4.1}Emerging Technologies}{28}{subsubsection.1.4.4.1}%
-\contentsline {subsubsection}{\numberline {1.4.4.2}Integration Challenges}{28}{subsubsection.1.4.4.2}%
-\contentsline {section}{\numberline {1.5}Understanding the Three Pillars: Application, Architecture, and Algorithm}{28}{section.1.5}%
-\contentsline {subsection}{\numberline {1.5.1}Example 1: The Science of Tying Your Shoe}{29}{subsection.1.5.1}%
-\contentsline {subsubsection}{\numberline {1.5.1.1}Application: What is the Science of Tying a Shoe?}{29}{subsubsection.1.5.1.1}%
-\contentsline {subsubsection}{\numberline {1.5.1.2}Architecture: A Computational Shoe}{29}{subsubsection.1.5.1.2}%
-\contentsline {subsubsection}{\numberline {1.5.1.3}Algorithm: Determining the Mathematics}{30}{subsubsection.1.5.1.3}%
-\contentsline {subsubsection}{\numberline {1.5.1.4}Integration of the Three Pillars}{30}{subsubsection.1.5.1.4}%
-\contentsline {subsection}{\numberline {1.5.2}Example 2: A Computational Geode}{31}{subsection.1.5.2}%
-\contentsline {subsubsection}{\numberline {1.5.2.1}Application: The "Jewel" - Understanding Geode Formation}{31}{subsubsection.1.5.2.1}%
-\contentsline {subsubsection}{\numberline {1.5.2.2}Architecture: The "Tool" - Computational Infrastructure}{32}{subsubsection.1.5.2.2}%
-\contentsline {subsubsection}{\numberline {1.5.2.3}Algorithm: The "Rule" - Mathematical Frameworks}{32}{subsubsection.1.5.2.3}%
-\contentsline {subsubsection}{\numberline {1.5.2.4}The Scientific Impact}{33}{subsubsection.1.5.2.4}%
-\contentsline {subsection}{\numberline {1.5.3}Comparative Analysis: Simple vs. Complex Applications}{33}{subsection.1.5.3}%
-\contentsline {subsection}{\numberline {1.5.4}Universal Principles Across Applications}{33}{subsection.1.5.4}%
-\contentsline {subsubsection}{\numberline {1.5.4.1}Problem Decomposition}{33}{subsubsection.1.5.4.1}%
-\contentsline {subsubsection}{\numberline {1.5.4.2}Mathematical Abstraction}{33}{subsubsection.1.5.4.2}%
-\contentsline {subsubsection}{\numberline {1.5.4.3}Computational Implementation}{34}{subsubsection.1.5.4.3}%
-\contentsline {subsubsection}{\numberline {1.5.4.4}Interdisciplinary Integration}{34}{subsubsection.1.5.4.4}%
-\contentsline {section}{\numberline {1.6}What Computational Science is NOT!}{34}{section.1.6}%
-\contentsline {subsection}{\numberline {1.6.1}Computational Science vs. Basic Data Management}{34}{subsection.1.6.1}%
-\contentsline {subsubsection}{\numberline {1.6.1.1}Putting Numbers into Spreadsheets}{35}{subsubsection.1.6.1.1}%
-\contentsline {subsubsection}{\numberline {1.6.1.2}Analyzing Data Gathered in the Field or Experimentally}{35}{subsubsection.1.6.1.2}%
-\contentsline {subsection}{\numberline {1.6.2}Computational Science vs. Simple Mathematical Operations}{36}{subsection.1.6.2}%
-\contentsline {subsubsection}{\numberline {1.6.2.1}Fitting Data to an Equation}{36}{subsubsection.1.6.2.1}%
-\contentsline {subsubsection}{\numberline {1.6.2.2}Visualizing Data Collected Experimentally or in the Field}{37}{subsubsection.1.6.2.2}%
-\contentsline {subsection}{\numberline {1.6.3}Computational Science vs. General Computing Tasks}{37}{subsection.1.6.3}%
-\contentsline {subsubsection}{\numberline {1.6.3.1}Writing a Computer Program}{38}{subsubsection.1.6.3.1}%
-\contentsline {subsubsection}{\numberline {1.6.3.2}Using a Computer for Databases, Word Processing, or Presentations}{38}{subsubsection.1.6.3.2}%
-\contentsline {subsection}{\numberline {1.6.4}The Integration Imperative: What Makes It Computational Science}{39}{subsection.1.6.4}%
-\contentsline {subsubsection}{\numberline {1.6.4.1}Essential Components for Computational Science}{39}{subsubsection.1.6.4.1}%
-\contentsline {subsubsection}{\numberline {1.6.4.2}From Basic Computing to Computational Science}{40}{subsubsection.1.6.4.2}%
-\contentsline {subsection}{\numberline {1.6.5}Educational Implications}{40}{subsection.1.6.5}%
-\contentsline {section}{\numberline {1.7}Why Do We Need Computational Science?}{41}{section.1.7}%
-\contentsline {subsection}{\numberline {1.7.1}Limitations of Traditional Methods}{41}{subsection.1.7.1}%
-\contentsline {subsubsection}{\numberline {1.7.1.1}Problems Too Tedious for Manual Calculation}{41}{subsubsection.1.7.1.1}%
-\contentsline {subsubsection}{\numberline {1.7.1.2}Problems Too Dangerous for Laboratory Investigation}{42}{subsubsection.1.7.1.2}%
-\contentsline {subsubsection}{\numberline {1.7.1.3}Problems Too Expensive for Physical Implementation}{43}{subsubsection.1.7.1.3}%
-\contentsline {subsubsection}{\numberline {1.7.1.4}Problems Solvable Only Through Mathematical and Computational Tools}{44}{subsubsection.1.7.1.4}%
-\contentsline {subsection}{\numberline {1.7.2}The Marriage of Mathematics, Computing, and Science}{44}{subsection.1.7.2}%
-\contentsline {subsubsection}{\numberline {1.7.2.1}Mathematics Provides the Language}{45}{subsubsection.1.7.2.1}%
-\contentsline {subsubsection}{\numberline {1.7.2.2}Computing Provides the Power}{45}{subsubsection.1.7.2.2}%
-\contentsline {subsubsection}{\numberline {1.7.2.3}Science Provides the Context and Validation}{45}{subsubsection.1.7.2.3}%
-\contentsline {subsection}{\numberline {1.7.3}Who Cares? The Stakeholders and Beneficiaries}{45}{subsection.1.7.3}%
-\contentsline {subsubsection}{\numberline {1.7.3.1}Academic and Research Communities}{45}{subsubsection.1.7.3.1}%
-\contentsline {subsubsection}{\numberline {1.7.3.2}Industry and Technology Sectors}{46}{subsubsection.1.7.3.2}%
-\contentsline {subsubsection}{\numberline {1.7.3.3}Society and Global Challenges}{46}{subsubsection.1.7.3.3}%
-\contentsline {subsection}{\numberline {1.7.4}The Compelling Case for Computational Science}{46}{subsection.1.7.4}%
-\contentsline {section}{\numberline {1.8}The Grand Challenges and Opportunities}{47}{section.1.8}%
-\contentsline {subsection}{\numberline {1.8.1}The Seven Grand Challenges of 21st Century Science}{47}{subsection.1.8.1}%
-\contentsline {subsubsection}{\numberline {1.8.1.1}Molecular and Structural Biology}{47}{subsubsection.1.8.1.1}%
-\contentsline {subsubsection}{\numberline {1.8.1.2}Cosmology and Fundamental Physics}{48}{subsubsection.1.8.1.2}%
-\contentsline {subsubsection}{\numberline {1.8.1.3}Environmental Hydrology and Climate Science}{48}{subsubsection.1.8.1.3}%
-\contentsline {subsubsection}{\numberline {1.8.1.4}Warfare and Survivability}{49}{subsubsection.1.8.1.4}%
-\contentsline {subsubsection}{\numberline {1.8.1.5}Chemical Engineering and Molecular Structure}{49}{subsubsection.1.8.1.5}%
-\contentsline {subsubsection}{\numberline {1.8.1.6}Weather Prediction and Atmospheric Science}{49}{subsubsection.1.8.1.6}%
-\contentsline {subsubsection}{\numberline {1.8.1.7}Nanomaterials and Nanotechnology}{50}{subsubsection.1.8.1.7}%
-\contentsline {subsection}{\numberline {1.8.2}The Nobel Prize Potential: Recognition for Computational Breakthroughs}{50}{subsection.1.8.2}%
-\contentsline {subsubsection}{\numberline {1.8.2.1}Historical Precedent for Computational Nobel Prizes}{50}{subsubsection.1.8.2.1}%
-\contentsline {subsubsection}{\numberline {1.8.2.2}Areas Ripe for Future Recognition}{50}{subsubsection.1.8.2.2}%
-\contentsline {subsection}{\numberline {1.8.3}Your Opportunity in Computational Science}{51}{subsection.1.8.3}%
-\contentsline {subsubsection}{\numberline {1.8.3.1}What It Takes to Succeed}{51}{subsubsection.1.8.3.1}%
-\contentsline {subsubsection}{\numberline {1.8.3.2}The Path Forward}{52}{subsubsection.1.8.3.2}%
-\contentsline {chapter}{\numberline {2}References}{53}{chapter.2}%
+\contentsline {subsection}{\numberline {1.4.2}Future Trends in Computational Architecture}{26}{subsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.2.1}Emerging Technologies}{26}{subsubsection.1.4.2.1}%
+\contentsline {subsubsection}{\numberline {1.4.2.2}Integration Challenges}{27}{subsubsection.1.4.2.2}%
+\contentsline {section}{\numberline {1.5}Understanding the Three Pillars: Application, Architecture, and Algorithm}{27}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Example 1: The Science of Tying Your Shoe}{27}{subsection.1.5.1}%
+\contentsline {subsubsection}{\numberline {1.5.1.1}Application: What is the Science of Tying a Shoe?}{28}{subsubsection.1.5.1.1}%
+\contentsline {subsubsection}{\numberline {1.5.1.2}Architecture: A Computational Shoe}{28}{subsubsection.1.5.1.2}%
+\contentsline {subsubsection}{\numberline {1.5.1.3}Algorithm: Determining the Mathematics}{28}{subsubsection.1.5.1.3}%
+\contentsline {subsubsection}{\numberline {1.5.1.4}Integration of the Three Pillars}{29}{subsubsection.1.5.1.4}%
+\contentsline {subsection}{\numberline {1.5.2}Example 2: A Computational Geode}{29}{subsection.1.5.2}%
+\contentsline {subsubsection}{\numberline {1.5.2.1}Application: The "Jewel" - Understanding Geode Formation}{29}{subsubsection.1.5.2.1}%
+\contentsline {subsubsection}{\numberline {1.5.2.2}Architecture: The "Tool" - Computational Infrastructure}{30}{subsubsection.1.5.2.2}%
+\contentsline {subsubsection}{\numberline {1.5.2.3}Algorithm: The "Rule" - Mathematical Frameworks}{31}{subsubsection.1.5.2.3}%
+\contentsline {subsubsection}{\numberline {1.5.2.4}The Scientific Impact}{31}{subsubsection.1.5.2.4}%
+\contentsline {subsection}{\numberline {1.5.3}Comparative Analysis: Simple vs. Complex Applications}{32}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}Universal Principles Across Applications}{32}{subsection.1.5.4}%
+\contentsline {subsubsection}{\numberline {1.5.4.1}Problem Decomposition}{32}{subsubsection.1.5.4.1}%
+\contentsline {subsubsection}{\numberline {1.5.4.2}Mathematical Abstraction}{32}{subsubsection.1.5.4.2}%
+\contentsline {subsubsection}{\numberline {1.5.4.3}Computational Implementation}{32}{subsubsection.1.5.4.3}%
+\contentsline {subsubsection}{\numberline {1.5.4.4}Interdisciplinary Integration}{32}{subsubsection.1.5.4.4}%
+\contentsline {section}{\numberline {1.6}What Computational Science is NOT!}{33}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}Computational Science vs. Basic Data Management}{33}{subsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.1.1}Putting Numbers into Spreadsheets}{33}{subsubsection.1.6.1.1}%
+\contentsline {subsubsection}{\numberline {1.6.1.2}Analyzing Data Gathered in the Field or Experimentally}{34}{subsubsection.1.6.1.2}%
+\contentsline {subsection}{\numberline {1.6.2}Computational Science vs. Simple Mathematical Operations}{35}{subsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.2.1}Fitting Data to an Equation}{35}{subsubsection.1.6.2.1}%
+\contentsline {subsubsection}{\numberline {1.6.2.2}Visualizing Data Collected Experimentally or in the Field}{35}{subsubsection.1.6.2.2}%
+\contentsline {subsection}{\numberline {1.6.3}Computational Science vs. General Computing Tasks}{36}{subsection.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.3.1}Writing a Computer Program}{36}{subsubsection.1.6.3.1}%
+\contentsline {subsubsection}{\numberline {1.6.3.2}Using a Computer for Databases, Word Processing, or Presentations}{37}{subsubsection.1.6.3.2}%
+\contentsline {subsection}{\numberline {1.6.4}The Integration Imperative: What Makes It Computational Science}{38}{subsection.1.6.4}%
+\contentsline {subsubsection}{\numberline {1.6.4.1}Essential Components for Computational Science}{38}{subsubsection.1.6.4.1}%
+\contentsline {subsubsection}{\numberline {1.6.4.2}From Basic Computing to Computational Science}{38}{subsubsection.1.6.4.2}%
+\contentsline {section}{\numberline {1.7}Why Do We Need Computational Science?}{39}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}Limitations of Traditional Methods}{39}{subsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.1.1}Problems Too Tedious for Manual Calculation}{39}{subsubsection.1.7.1.1}%
+\contentsline {subsubsection}{\numberline {1.7.1.2}Problems Too Dangerous for Laboratory Investigation}{40}{subsubsection.1.7.1.2}%
+\contentsline {subsubsection}{\numberline {1.7.1.3}Problems Too Expensive for Physical Implementation}{41}{subsubsection.1.7.1.3}%
+\contentsline {subsubsection}{\numberline {1.7.1.4}Problems Solvable Only Through Mathematical and Computational Tools}{42}{subsubsection.1.7.1.4}%
+\contentsline {subsection}{\numberline {1.7.2}The Marriage of Mathematics, Computing, and Science}{43}{subsection.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.2.1}Mathematics Provides the Language}{43}{subsubsection.1.7.2.1}%
+\contentsline {subsubsection}{\numberline {1.7.2.2}Computing Provides the Power}{43}{subsubsection.1.7.2.2}%
+\contentsline {subsubsection}{\numberline {1.7.2.3}Science Provides the Context and Validation}{43}{subsubsection.1.7.2.3}%
+\contentsline {subsection}{\numberline {1.7.3}Who Cares? The Stakeholders and Beneficiaries}{43}{subsection.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.7.3.1}Academic and Research Communities}{44}{subsubsection.1.7.3.1}%
+\contentsline {subsubsection}{\numberline {1.7.3.2}Industry and Technology Sectors}{44}{subsubsection.1.7.3.2}%
+\contentsline {subsubsection}{\numberline {1.7.3.3}Society and Global Challenges}{44}{subsubsection.1.7.3.3}%
+\contentsline {subsection}{\numberline {1.7.4}The Compelling Case for Computational Science}{45}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1.8}The Grand Challenges and Opportunities}{45}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}The Seven Grand Challenges of 21st Century Science}{45}{subsection.1.8.1}%
+\contentsline {subsubsection}{\numberline {1.8.1.1}Molecular and Structural Biology}{46}{subsubsection.1.8.1.1}%
+\contentsline {subsubsection}{\numberline {1.8.1.2}Cosmology and Fundamental Physics}{46}{subsubsection.1.8.1.2}%
+\contentsline {subsubsection}{\numberline {1.8.1.3}Environmental Hydrology and Climate Science}{47}{subsubsection.1.8.1.3}%
+\contentsline {subsubsection}{\numberline {1.8.1.4}Warfare and Survivability}{47}{subsubsection.1.8.1.4}%
+\contentsline {subsubsection}{\numberline {1.8.1.5}Chemical Engineering and Molecular Structure}{47}{subsubsection.1.8.1.5}%
+\contentsline {subsubsection}{\numberline {1.8.1.6}Weather Prediction and Atmospheric Science}{48}{subsubsection.1.8.1.6}%
+\contentsline {subsubsection}{\numberline {1.8.1.7}Nanomaterials and Nanotechnology}{48}{subsubsection.1.8.1.7}%
+\contentsline {subsection}{\numberline {1.8.2}The Nobel Prize Potential: Recognition for Computational Breakthroughs}{48}{subsection.1.8.2}%
+\contentsline {subsubsection}{\numberline {1.8.2.1}Historical Precedent for Computational Nobel Prizes}{49}{subsubsection.1.8.2.1}%
+\contentsline {subsubsection}{\numberline {1.8.2.2}Areas Ripe for Future Recognition}{49}{subsubsection.1.8.2.2}%
+\contentsline {subsection}{\numberline {1.8.3}Your Opportunity in Computational Science}{49}{subsection.1.8.3}%
+\contentsline {subsubsection}{\numberline {1.8.3.1}What It Takes to Succeed}{49}{subsubsection.1.8.3.1}%
+\contentsline {subsubsection}{\numberline {1.8.3.2}The Path Forward}{50}{subsubsection.1.8.3.2}%
+\contentsline {chapter}{\numberline {2}References}{51}{chapter.2}%

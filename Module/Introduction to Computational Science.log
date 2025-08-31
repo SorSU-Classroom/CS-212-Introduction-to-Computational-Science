@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.7)  27 AUG 2025 12:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.5.7)  31 AUG 2025 17:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/user/OneDrive/Documents/SorSU/__Repository__/CS-212-Introduction-to-Computation-Science/Module/Introduction to Computational Science.tex"
-(c:/Users/user/OneDrive/Documents/SorSU/__Repository__/CS-212-Introduction-to-Computation-Science/Module/Introduction to Computational Science.tex
+**"c:/Users/user/OneDrive/Documents/SorSU/__Repository__/CS-212-Introduction-to-Computational-Science/Module/Introduction to Computational Science.tex"
+(c:/Users/user/OneDrive/Documents/SorSU/__Repository__/CS-212-Introduction-to-Computational-Science/Module/Introduction to Computational Science.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
 (c:/texlive/2025/texmf-dist/tex/latex/base/book.cls
@@ -1235,7 +1235,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
  1.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 12.9599pt on input line 3.
-<images/chapter1_title_simulation.png, id=739, 557.08125pt x 502.12593pt>
+<images/chapter1_title_simulation.png, id=689, 557.08125pt x 502.12593pt>
 File: images/chapter1_title_simulation.png Graphic file (type png)
 <use images/chapter1_title_simulation.png>
 Package pdftex.def Info: images/chapter1_title_simulation.png  used on input line 20.
@@ -1257,93 +1257,86 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 [3 <./images/chapter1_title_simulation.png>]
 
 [4]
-
-[5]
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 199.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 161.
  (c:/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
 
-[6{c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
+[5{c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
+
+[6]
 
 [7]
-Overfull \hbox (1.68533pt too wide) in paragraph at lines 313--314
+Overfull \hbox (1.68533pt too wide) in paragraph at lines 275--276
 []\T1/ppl/m/n/10.95 (-20) The 20th and 21st cen-turies have wit-nessed the emer-gence of a third ap-proach^^Vcomputational
  []
 
-<images/science_four_pillars.png, id=801, 720.44156pt x 429.10312pt>
+<images/science_four_pillars.png, id=746, 720.44156pt x 429.10312pt>
 File: images/science_four_pillars.png Graphic file (type png)
 <use images/science_four_pillars.png>
-Package pdftex.def Info: images/science_four_pillars.png  used on input line 317.
+Package pdftex.def Info: images/science_four_pillars.png  used on input line 279.
 (pdftex.def)             Requested size: 362.37569pt x 215.83435pt.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
 
+[8 <./images/science_four_pillars.png>]
 
-
-[8]
-
-[9 <./images/science_four_pillars.png>]
-
-[10]
-Overfull \hbox (10.4726pt too wide) in paragraph at lines 412--413
+[9]
+Overfull \hbox (10.4726pt too wide) in paragraph at lines 374--375
 []\T1/ppl/m/n/10.95 (-20) The di-rec-tive to "con-struct a sim-u-la-tion" cap-tures the essence of com-pu-ta-tional sci-ence^^Vcreating
  []
 
 
 
+[10]
+
 [11]
-<images/tripartite_triangle.png, id=834, 511.9125pt x 414.04688pt>
+<images/tripartite_triangle.png, id=769, 511.9125pt x 414.04688pt>
 File: images/tripartite_triangle.png Graphic file (type png)
 <use images/tripartite_triangle.png>
-Package pdftex.def Info: images/tripartite_triangle.png  used on input line 465.
+Package pdftex.def Info: images/tripartite_triangle.png  used on input line 427.
 (pdftex.def)             Requested size: 317.07614pt x 256.46pt.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+[12 <./images/tripartite_triangle.png>]
 
-
-
-[12]
-
-[13 <./images/tripartite_triangle.png>]
+[13]
 
 [14]
 
 [15]
 
 [16]
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 684.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on input line 646.
  (c:/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
 
 [17]
 
 [18{c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
-<images/computational_science_venn.png, id=868, 904.88063pt x 353.82187pt>
+<images/computational_science_venn.png, id=804, 904.88063pt x 353.82187pt>
 File: images/computational_science_venn.png Graphic file (type png)
 <use images/computational_science_venn.png>
-Package pdftex.def Info: images/computational_science_venn.png  used on input line 747.
+Package pdftex.def Info: images/computational_science_venn.png  used on input line 709.
 (pdftex.def)             Requested size: 362.37569pt x 141.6936pt.
 
 
 [19 <./images/computational_science_venn.png>]
-<images/molecular_structure.png, id=875, 309.40594pt x 374.14781pt>
+<images/molecular_structure.png, id=811, 309.40594pt x 374.14781pt>
 File: images/molecular_structure.png Graphic file (type png)
 <use images/molecular_structure.png>
-Package pdftex.def Info: images/molecular_structure.png  used on input line 772.
+Package pdftex.def Info: images/molecular_structure.png  used on input line 734.
 (pdftex.def)             Requested size: 271.7835pt x 328.68018pt.
 
 
 [20 <./images/molecular_structure.png>]
-<images/least_squares_regression.png, id=882, 428.35031pt x 338.01282pt>
+<images/least_squares_regression.png, id=818, 428.35031pt x 338.01282pt>
 File: images/least_squares_regression.png Graphic file (type png)
 <use images/least_squares_regression.png>
-Package pdftex.def Info: images/least_squares_regression.png  used on input line 809.
+Package pdftex.def Info: images/least_squares_regression.png  used on input line 771.
 (pdftex.def)             Requested size: 271.7835pt x 214.46555pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (34.04976pt too wide) in paragraph at lines 814--815
+Overfull \hbox (34.04976pt too wide) in paragraph at lines 776--777
 []\T1/ppl/m/n/10.95 (-20) At the heart of com-pu-ta-tional sci-ence lies the de-vel-op-ment and ap-pli-ca-tion of al-go-rithms^^Vsystematic
  []
 
@@ -1360,8 +1353,19 @@ Overfull \hbox (34.04976pt too wide) in paragraph at lines 814--815
 [25]
 
 [26]
+<images/shoe_tying_example.png, id=847, 327.47343pt x 113.67468pt>
+File: images/shoe_tying_example.png Graphic file (type png)
+<use images/shoe_tying_example.png>
+Package pdftex.def Info: images/shoe_tying_example.png  used on input line 972.
+(pdftex.def)             Requested size: 362.37569pt x 125.7901pt.
 
-[27]
+
+
+Overfull \hbox (63.67894pt too wide) has occurred while \output is active
+\T1/ppl/m/sl/10.95 1.5.  UNDERSTANDING THE THREE PILLARS: APPLICATION, ARCHITECTURE, AND ALGORITHM \T1/ppl/m/n/10.95 27
+ []
+
+[27 <./images/shoe_tying_example.png>]
 
 
 Overfull \hbox (63.67894pt too wide) has occurred while \output is active
@@ -1369,11 +1373,15 @@ Overfull \hbox (63.67894pt too wide) has occurred while \output is active
  []
 
 [28]
-<images/shoe_tying_example.png, id=920, 327.47343pt x 113.67468pt>
-File: images/shoe_tying_example.png Graphic file (type png)
-<use images/shoe_tying_example.png>
-Package pdftex.def Info: images/shoe_tying_example.png  used on input line 1102.
-(pdftex.def)             Requested size: 362.37569pt x 125.7901pt.
+<images/computational_geode.png, id=859, 417.81094pt x 207.77625pt>
+File: images/computational_geode.png Graphic file (type png)
+<use images/computational_geode.png>
+Package pdftex.def Info: images/computational_geode.png  used on input line 1058.
+(pdftex.def)             Requested size: 362.37569pt x 180.21855pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 
 
@@ -1381,37 +1389,17 @@ Overfull \hbox (63.67894pt too wide) has occurred while \output is active
 \T1/ppl/m/sl/10.95 1.5.  UNDERSTANDING THE THREE PILLARS: APPLICATION, ARCHITECTURE, AND ALGORITHM \T1/ppl/m/n/10.95 29
  []
 
-[29 <./images/shoe_tying_example.png>]
+[29]
 
 
 Overfull \hbox (63.67894pt too wide) has occurred while \output is active
 \T1/ppl/m/sl/10.95 1.5.  UNDERSTANDING THE THREE PILLARS: APPLICATION, ARCHITECTURE, AND ALGORITHM \T1/ppl/m/n/10.95 30
  []
 
-[30]
-<images/computational_geode.png, id=933, 417.81094pt x 207.77625pt>
-File: images/computational_geode.png Graphic file (type png)
-<use images/computational_geode.png>
-Package pdftex.def Info: images/computational_geode.png  used on input line 1188.
-(pdftex.def)             Requested size: 362.37569pt x 180.21855pt.
-
-
-
-Overfull \hbox (63.67894pt too wide) has occurred while \output is active
-\T1/ppl/m/sl/10.95 1.5.  UNDERSTANDING THE THREE PILLARS: APPLICATION, ARCHITECTURE, AND ALGORITHM \T1/ppl/m/n/10.95 31
- []
-
-[31 <./images/computational_geode.png>]
-
-
-Overfull \hbox (63.67894pt too wide) has occurred while \output is active
-\T1/ppl/m/sl/10.95 1.5.  UNDERSTANDING THE THREE PILLARS: APPLICATION, ARCHITECTURE, AND ALGORITHM \T1/ppl/m/n/10.95 32
- []
-
-[32]
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 1272.
+[30 <./images/computational_geode.png>]
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on input line 1142.
  (c:/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree3.fd)
-Underfull \hbox (badness 1163) in paragraph at lines 1278--1279
+Underfull \hbox (badness 1163) in paragraph at lines 1148--1149
 [][]\T1/ppl/b/n/10.95 (+20) Validation[]\T1/ppl/m/n/10.95 (+20) : Ge-o-log-i-cal ev-i-dence,
  []
 
@@ -1419,36 +1407,45 @@ Underfull \hbox (badness 1163) in paragraph at lines 1278--1279
 
 
 Overfull \hbox (63.67894pt too wide) has occurred while \output is active
-\T1/ppl/m/sl/10.95 1.5.  UNDERSTANDING THE THREE PILLARS: APPLICATION, ARCHITECTURE, AND ALGORITHM \T1/ppl/m/n/10.95 33
+\T1/ppl/m/sl/10.95 1.5.  UNDERSTANDING THE THREE PILLARS: APPLICATION, ARCHITECTURE, AND ALGORITHM \T1/ppl/m/n/10.95 31
  []
 
-[33{c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}]
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 1343.
+[31]
+
+
+Overfull \hbox (63.67894pt too wide) has occurred while \output is active
+\T1/ppl/m/sl/10.95 1.5.  UNDERSTANDING THE THREE PILLARS: APPLICATION, ARCHITECTURE, AND ALGORITHM \T1/ppl/m/n/10.95 32
+ []
+
+[32{c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free3.enc}]
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 1213.
  (c:/texlive/2025/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 
-[34{c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
+[33{c:/texlive/2025/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
+
+[34]
 
 [35]
-
-[36]
-Overfull \hbox (0.78609pt too wide) in paragraph at lines 1476--1477
+Overfull \hbox (0.78609pt too wide) in paragraph at lines 1346--1347
 [][]\T1/ppl/b/n/10.95 (-20) Limited Di-men-sion-al-ity[]\T1/ppl/m/n/10.95 (-20) : Stan-dard plots strug-gle to rep-re-sent com-plex, multi-dimensional
  []
 
 
 
+[36]
+
 [37]
 
 [38]
-
-[39]
-
-[40]
-Overfull \hbox (28.72557pt too wide) in paragraph at lines 1658--1659
+Overfull \hbox (28.72557pt too wide) in paragraph at lines 1514--1515
 []\T1/ppl/m/n/10.95 (-20) In many sci-en-tific do-mains, re-searchers en-counter sce-nar-ios where tra-di-tional ap-proaches^^Vwhether
  []
 
 
+
+[39]
+
+[40]
 
 [41]
 
@@ -1466,17 +1463,13 @@ Overfull \hbox (28.72557pt too wide) in paragraph at lines 1658--1659
 
 [48]
 
-[49]
+[49])
 
 [50]
-
-[51])
-
-[52]
  2.
 
 
-[53
+[51
 
 ] (./Introduction to Computational Science.aux)
  ***********
@@ -1484,21 +1477,21 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-14>
  ***********
 Package rerunfilecheck Info: File `"Introduction to Computational Science".out' has not changed.
-(rerunfilecheck)             Checksum: C946E0DB638AB307418ED75D78A5A634;35826.
+(rerunfilecheck)             Checksum: 411B8F6C1D069D9F875A1336743F891A;33589.
  ) 
 Here is how much of TeX's memory you used:
- 57430 strings out of 469608
- 1305880 string characters out of 5474780
+ 57394 strings out of 469608
+ 1305364 string characters out of 5474780
  2126687 words of memory out of 5000000
- 82811 multiletter control sequences out of 15000+600000
+ 82801 multiletter control sequences out of 15000+600000
  716370 words of font info for 449 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 132i,11n,135p,1332b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 132i,11n,135p,1334b,732s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/texlive/2025/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on "Introduction to Computational Science.pdf" (60 pages, 1917485 bytes).
+Output written on "Introduction to Computational Science.pdf" (58 pages, 1911663 bytes).
 PDF statistics:
- 1149 PDF objects out of 1200 (max. 8388607)
- 1037 compressed objects within 11 object streams
- 244 named destinations out of 1000 (max. 500000)
- 118365 words of extra memory for PDF output out of 128383 (max. 10000000)
+ 1072 PDF objects out of 1200 (max. 8388607)
+ 963 compressed objects within 10 object streams
+ 218 named destinations out of 1000 (max. 500000)
+ 118285 words of extra memory for PDF output out of 128383 (max. 10000000)
 
