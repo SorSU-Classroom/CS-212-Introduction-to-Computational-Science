@@ -3,3 +3,4 @@
 .metadata/
 samples/
 **/com/**/Exercises/
+**/__h__/
